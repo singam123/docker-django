@@ -42,8 +42,6 @@ INSTALLED_APPS = [
 
 from pathlib import Path
 
-CSV_DIRECTORY = Path("C:\backup2\pardhu\Docker\django-sample\djangoSampleforms\report.csv") # Define the directory where csv are exported
-TEX_DIRECTORY = Path("C:\backup2\pardhu\Docker\django-sample\djangoSampleforms\report.pdf") # Define the directory where tex files and pdf are exported
 
 INSTALLED_APPS += [
 	'bootstrapform',

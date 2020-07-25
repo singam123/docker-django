@@ -1,2 +1,2 @@
-django==1.11.4
+django==1.11.29
 django-survey-and-report
